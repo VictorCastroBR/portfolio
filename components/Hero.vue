@@ -1,6 +1,6 @@
 <template>
-    <section
-    class="min-h-screen flex items-center justify-center px-4 py-16 bg-fixed bg-neutral-100 dark:bg-neutral-900 transition-colors"
+    <section id="inicio"
+    class="min-h-screen flex items-center justify-center px-4 py-16 bg-fixed bg-neutral-100 bg-cover dark:bg-neutral-900 transition-colors"
     style="background-image: url('/bg-gradiente.png');">
       <div class="absolute inset-0 bg-black/40 z-0"></div>
 
@@ -18,6 +18,5 @@
           Ver meus projetos
         </NuxtLink>
       </div>
-      
     </section>
 </template>

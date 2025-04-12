@@ -1,8 +1,29 @@
 <template>
-    <section id="sobre" class="min-h-screen py-20 bg-white dark:bg-black text-center px-6">
-        <h2 class="text-3xl text-white font-bold mb-4">Sobre mim</h2>
-        <p class="text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-          Sou um desenvolvedor full stack com paixão por tecnologia e experiência em projetos modernos com foco em experiência do usuário. 💻✨
+  <section id="sobre" class="min-h-screen py-20 px-6 bg-white dark:bg-black text-gray-800 dark:text-gray-200">
+    <div class="container mx-auto flex flex-col md:flex-row items-center justify-center gap-10 max-w-5xl">
+
+      <div class="w-40 h-40 md:w-64 md:h-64 rounded-xl overflow-hidden border-4 border-primary shadow-lg shrink-0">
+        <img
+          src="/me.jpg"
+          alt="Foto de Victor Castro"
+          class="w-full h-full object-cover"
+        />
+      </div>
+
+      <div class="text-center md:text-left max-w-xl">
+        <h2 class="text-3xl font-bold mb-4">Sobre mim</h2>
+        <p class="text-lg leading-relaxed">
+          Me chamo Victor Castro, sou um desenvolvedor web full stack apaixonado por tecnologia, com experiência em <strong>Nuxt 3</strong>, <strong>Laravel</strong>, <strong>Vue.js</strong> e <strong>Python</strong>.
         </p>
-    </section>
+        <p class="mt-4 text-lg leading-relaxed">
+          Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela FATEC de Ribeirão Preto e atualmente trabalho construindo soluções digitais com foco em performance, usabilidade e inovação. 🚀
+        </p>
+      </div>
+
+    </div>
+  </section>
 </template>
+
+<style scoped>
+</style>
+
