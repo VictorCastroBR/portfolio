@@ -5,7 +5,7 @@
       <div class="absolute inset-0 bg-black/40 z-0"></div>
 
       <div class="max-w-4xl mx-auto text-center z-10">
-        <div class="text-4xl  text-white md:text-6xl font-extrabold mb-6 leading-tight">
+        <div class="text-4xl  text-white md:text-6xl font-extrabold mb-6 leading-tight transform transition-transform duration-300 hover:scale-105">
           Olá, eu sou <span class="text-primary">Victor Castro</span> 👋
         </div>
         
