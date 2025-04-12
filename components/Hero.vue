@@ -14,9 +14,9 @@
           Entrego soluções web com alta performance, design moderno e foco total em experiência do usuário. 🚀
         </div>
         
-        <NuxtLink to="/projetos" class="inline-block bg-primary text-white px-6 py-3 rounded-2xl text-lg font-medium hover:bg-primary/90 transition">
+        <!-- <NuxtLink to="/projetos" class="inline-block bg-primary text-white px-6 py-3 rounded-2xl text-lg font-medium hover:bg-primary/90 transition">
           Ver meus projetos
-        </NuxtLink>
+        </NuxtLink> -->
       </div>
     </section>
 </template>
