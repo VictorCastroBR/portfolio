@@ -7,7 +7,7 @@
           <li><a href="#sobre" class="hover:text-primary transition">Sobre</a></li>
           <li><a href="#experiencia" class="hover:text-primary transition">Experiência</a></li>
           <li><a href="#skills" class="hover:text-primary transition">Skills</a></li>
-          <li><a href="#contato" class="hover:text-primary transition">Contato</a></li>
+          <li><a href="#certificados" class="hover:text-primary transition">Certificados</a></li>
         </ul>
       </nav>
     </header>

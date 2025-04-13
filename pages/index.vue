@@ -5,7 +5,6 @@
     <Sobre />
     <Experiencia/>
     <Skill />
-    <Contato />
     <Certificados />
     <Footer />
   </div>

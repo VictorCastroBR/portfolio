@@ -18,7 +18,7 @@
               :alt="cert.title"
               class="w-full h-64 object-cover"
             />
-            <div class="p-3 bg-white dark:bg-neutral-800 text-center text-sm font-medium">
+            <div class="p-3 bg-white dark:bg-teal-800 text-center text-sm font-medium">
               {{ cert.title }}
             </div>
           </div>
@@ -49,16 +49,24 @@
       img: '/certificados/ads.png',
     },
     {
-      title: 'Certificado Python - Alura',
-      img: '/certificados/ads.png',
+      title: 'Back End Development and APIs - FreeCode Camp',
+      img: '/certificados/back-end-development-apis.png',
     },
     {
-      title: 'Certificado Vue.js - Rocketseat',
-      img: '/certificados/ads.png',
+      title: 'Análise de Dados em Liguagem R - Enap',
+      img: '/certificados/enap.png',
     },
     {
-      title: 'Certificado Vue.js - Rocketseat',
-      img: '/certificados/ads.png',
+      title: 'JavaScript Algorithms and Data Structures - FreeCode Camp',
+      img: '/certificados/javascript.png',
+    },
+    {
+      title: 'Desenvolvimento Web Avançado com PHP, Laravel e Vue.Js - Udemy',
+      img: '/certificados/laravel-udemy.jpg',
+    },
+    {
+      title: 'FastAPI - APIs Modernas e Assíncronas com Python - Udemy',
+      img: '/certificados/fastapi.jpg',
     },
   ]
   </script>

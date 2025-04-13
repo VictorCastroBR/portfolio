@@ -43,28 +43,28 @@
 <script setup>
 const timeline = [
   {
-    title: 'Plataforma de E-commerce',
-    description: 'Sistema completo com painel administrativo, carrinho e checkout.',
-    techs: ['Nuxt 3', 'Laravel', 'MySQL'],
-    year: '2023',
+    title: 'Suporte HelpDesk',
+    description: 'Atendimento técnico, instalação de sistemas, configuração de redes e suporte em ambientes Windows e Linux.',
+    techs: ['MySQL', 'Windows', 'Linux'],
+    year: '2021',
   },
   {
-    title: 'Painel de Monitoramento Solar',
-    description: 'Dashboard com dados de geração de energia em tempo real.',
-    techs: ['Nuxt 3', 'FastAPI', 'PostgreSQL'],
-    year: '2023',
-  },
-  {
-    title: 'Sistema de Gestão Financeira',
-    description: 'Controle de fluxo de caixa e relatórios financeiros.',
-    techs: ['Django', 'Vue 3', 'OracleDB'],
+    title: 'Plataforma de Delivery',
+    description: 'Sistema completo para restaurantes com painel administrativo, gerenciamento de pedidos online, carrinho, cardápio digital e integração com formas de pagamento.',
+    techs: ['Vue2', 'Django REST', 'MySQL'],
     year: '2022',
   },
   {
-    title: 'Dashboard de Vendas B2B',
-    description: 'Painel de performance com filtros, metas e exportações.',
-    techs: ['Vue.js', 'Laravel', 'PostgreSQL'],
-    year: '2021',
+    title: 'CRM para Empresa de Energia Fotovoltaica (Instalação e Venda)',
+    description: 'Plataforma integrada para gestão de vendas, clientes, contratos, propostas e visitas técnicas. Inclui integração com API externa e painéis gerenciais personalizados.',
+    techs: ['Laravel', 'MySQL', 'Vue3'],
+    year: '2023',
   },
-]
+  {
+    title: 'Sistema Comercial para Empresa de Venda de Equipamentos Fotovoltaicos',
+    description: 'Sistema focado na gestão de produtos, orçamentos e vendas avulsas. Interface otimizada para representantes comerciais com fluxo ágil de atendimento ao cliente.',
+    techs: ['Laravel', 'MySQL', 'Nuxt3'],
+    year: '2025',
+  },
+];
 </script>
