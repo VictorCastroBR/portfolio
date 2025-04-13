@@ -4,7 +4,7 @@
 
       <div class="w-40 h-40 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-primary shadow-lg shrink-0 transform transition duration-300 hover:scale-105 hover:brightness-110 hover:shadow-xl">
         <img
-          src="/me.jpg"
+          src="/me.jpeg"
           alt="Foto de Victor Castro"
           class="w-full h-full object-cover"
         />
