@@ -20,7 +20,7 @@
   "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "4.6.1",
     "lightningcss": "^1.23.0",
-    "lightningcss.linux-x64-gnu": "1.23.0"
+    "lightningcss-linux-x64-gnu": "1.29.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.1"
