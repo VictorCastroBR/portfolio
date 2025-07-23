@@ -8,13 +8,18 @@
           <SkillCard name="PHP" level="Avançado" icon="php" />
           <SkillCard name="Python" level="Avançado" icon="python" />
           <SkillCard name="Django REST" level="Avançado" icon="djangorest" />
-          <SkillCard name="FastAPI" level="Intermediário" icon="fastapi" />
-          <SkillCard name="Flask" level="Intermediário" icon="flask" />
+          <SkillCard name="FastAPI" level="Avançado" icon="fastapi" />
+          <SkillCard name="Flask" level="Avançado" icon="flask" />
+          <SkillCard name="NodeJs" level="Avançado" icon="nodejs" />
           <SkillCard name="Nuxt" level="Avançado" icon="nuxtjs" />
+          <SkillCard name="React" level="Avançado" icon="react" />
+          <SkillCard name="Next" level="Avançado" icon="nextjs" />
           <SkillCard name="Laravel" level="Avançado" icon="laravel" />
           <SkillCard name="MySQL" level="Avançado" icon="mysql" />
-          <SkillCard name="PostgreSQL" level="Intermediário" icon="postgresql" />
-          <SkillCard name="Oracle DB" level="Intermediário" icon="oracle" />
+          <SkillCard name="PostgreSQL" level="Avançado" icon="postgresql" />
+          <SkillCard name="Oracle DB" level="Avançado" icon="oracle" />
+          <SkillCard name="MongoDB" level="Avançado" icon="mongodb" />
+          <SkillCard name="DynamoDB" level="Avançado" icon="dynamodb" />
         </div>
       </div>
     </section>
